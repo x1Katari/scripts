@@ -16,5 +16,12 @@
 Selenium preload injection + canvas_to_image downloader
 - **Selenium**
 
+4. **[dumanwu](https://github.com/x1Katari/scripts/blob/main/dumanwu.py)**
+- **Aiogram 3**
+- **Concurrent**
+- **Asyncio.Queue**
+- **Selenium**
+
+
 ## Contacts:
 Telegram – https://t.me/v1_amadey
